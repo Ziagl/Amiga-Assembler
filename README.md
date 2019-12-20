@@ -16,6 +16,25 @@ both examples demonstrate with simple operations on how status register bits are
 
 this sample shows how to write subroutines
 
+## if/else
+
+this example shows how to write if/else statements in assembler language
+
+## tri-state
+
+are special cases of if/else with a third path
+
+## for loop
+
+this example shows how to write incrementing and decrementing for loops
+
+## do while loop
+
+simple but effective one liner do while loops
+
+## bitshifting
+
+an example how to shift binary in memory left and right and how to rotate it
 
 # Blog reference
 
